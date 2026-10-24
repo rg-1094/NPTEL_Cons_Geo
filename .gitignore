@@ -1,0 +1,16 @@
+# Ignore the original Word document with answers
+*.docx
+NPTEL ConsGeo Ans.docx
+
+# System and temporary scratch files
+.system_generated/
+scratch/
+__pycache__/
+*.pyc
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
